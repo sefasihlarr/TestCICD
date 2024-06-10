@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ortak\\Masa\u00FCst\u00FC\\TestCICD\\TestCICD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{119B1E6E-3C1F-45C9-9DF7-DEBA5EC42FB1}|TestCICD\\TestCICD.csproj|c:\\users\\ortak\\masa\u00FCst\u00FC\\testcicd\\testcicd\\testcicd\\dockerfile.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{119B1E6E-3C1F-45C9-9DF7-DEBA5EC42FB1}|TestCICD\\TestCICD.csproj|solutionrelative:testcicd\\dockerfile.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile.yml",
+              "DocumentMoniker": "C:\\Users\\ortak\\Masa\u00FCst\u00FC\\TestCICD\\TestCICD\\TestCICD\\Dockerfile.yml",
+              "RelativeDocumentMoniker": "TestCICD\\Dockerfile.yml",
+              "ToolTip": "C:\\Users\\ortak\\Masa\u00FCst\u00FC\\TestCICD\\TestCICD\\TestCICD\\Dockerfile.yml",
+              "RelativeToolTip": "TestCICD\\Dockerfile.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-10T12:28:19.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
