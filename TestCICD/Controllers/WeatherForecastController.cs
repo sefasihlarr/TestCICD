@@ -34,8 +34,12 @@ namespace TestCICD.Controllers
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Post()
         {
+
+            var values = "can bonomo";
+
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
+                
             })
             .ToArray();
         }

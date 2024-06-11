@@ -34,8 +34,7 @@
               "RelativeToolTip": "TestCICD\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:38:40.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T12:38:40.37Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "TestCICD\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\Users\\ortak\\Masa\u00FCst\u00FC\\TestCICD\\TestCICD\\TestCICD\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "TestCICD\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAkwCUAAAANAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T07:39:10.918Z",
               "EditorCaption": ""
@@ -60,8 +59,7 @@
               "RelativeToolTip": "TestCICD\\Dockerfile.yml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-06-10T12:28:19.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T12:28:19.284Z"
             }
           ]
         }
