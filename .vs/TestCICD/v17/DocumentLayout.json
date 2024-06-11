@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ortak\\Masa\u00FCst\u00FC\\TestCICD\\TestCICD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{119B1E6E-3C1F-45C9-9DF7-DEBA5EC42FB1}|TestCICD\\TestCICD.csproj|c:\\users\\ortak\\masa\u00FCst\u00FC\\testcicd\\testcicd\\testcicd\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{119B1E6E-3C1F-45C9-9DF7-DEBA5EC42FB1}|TestCICD\\TestCICD.csproj|solutionrelative:testcicd\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{119B1E6E-3C1F-45C9-9DF7-DEBA5EC42FB1}|TestCICD\\TestCICD.csproj|c:\\users\\ortak\\masa\u00FCst\u00FC\\testcicd\\testcicd\\testcicd\\dockerfile.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{119B1E6E-3C1F-45C9-9DF7-DEBA5EC42FB1}|TestCICD\\TestCICD.csproj|solutionrelative:testcicd\\dockerfile.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{119B1E6E-3C1F-45C9-9DF7-DEBA5EC42FB1}|TestCICD\\TestCICD.csproj|c:\\users\\ortak\\masa\u00FCst\u00FC\\testcicd\\testcicd\\testcicd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{119B1E6E-3C1F-45C9-9DF7-DEBA5EC42FB1}|TestCICD\\TestCICD.csproj|solutionrelative:testcicd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{119B1E6E-3C1F-45C9-9DF7-DEBA5EC42FB1}|TestCICD\\TestCICD.csproj|c:\\users\\ortak\\masa\u00FCst\u00FC\\testcicd\\testcicd\\testcicd\\dockerfile.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{119B1E6E-3C1F-45C9-9DF7-DEBA5EC42FB1}|TestCICD\\TestCICD.csproj|solutionrelative:testcicd\\dockerfile.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{119B1E6E-3C1F-45C9-9DF7-DEBA5EC42FB1}|TestCICD\\TestCICD.csproj|c:\\users\\ortak\\masa\u00FCst\u00FC\\testcicd\\testcicd\\testcicd\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119B1E6E-3C1F-45C9-9DF7-DEBA5EC42FB1}|TestCICD\\TestCICD.csproj|solutionrelative:testcicd\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -34,32 +34,34 @@
               "RelativeToolTip": "TestCICD\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T12:38:40.37Z"
+              "WhenOpened": "2024-06-11T12:38:40.37Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\ortak\\Masa\u00FCst\u00FC\\TestCICD\\TestCICD\\TestCICD\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "TestCICD\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\Users\\ortak\\Masa\u00FCst\u00FC\\TestCICD\\TestCICD\\TestCICD\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "TestCICD\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAkwCYAAAAAAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwCUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T07:39:10.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Dockerfile.yml",
               "DocumentMoniker": "C:\\Users\\ortak\\Masa\u00FCst\u00FC\\TestCICD\\TestCICD\\TestCICD\\Dockerfile.yml",
               "RelativeDocumentMoniker": "TestCICD\\Dockerfile.yml",
               "ToolTip": "C:\\Users\\ortak\\Masa\u00FCst\u00FC\\TestCICD\\TestCICD\\TestCICD\\Dockerfile.yml",
               "RelativeToolTip": "TestCICD\\Dockerfile.yml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-06-10T12:28:19.284Z"
+              "WhenOpened": "2024-06-10T12:28:19.284Z",
+              "EditorCaption": ""
             }
           ]
         }

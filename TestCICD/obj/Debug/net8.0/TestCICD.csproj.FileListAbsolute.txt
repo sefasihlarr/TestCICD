@@ -30,3 +30,4 @@ C:\Users\ortak\Masaüstü\TestCICD\TestCICD\TestCICD\obj\Debug\net8.0\refint\Tes
 C:\Users\ortak\Masaüstü\TestCICD\TestCICD\TestCICD\obj\Debug\net8.0\TestCICD.pdb
 C:\Users\ortak\Masaüstü\TestCICD\TestCICD\TestCICD\obj\Debug\net8.0\TestCICD.genruntimeconfig.cache
 C:\Users\ortak\Masaüstü\TestCICD\TestCICD\TestCICD\obj\Debug\net8.0\ref\TestCICD.dll
+C:\Users\ortak\Masaüstü\TestCICD\TestCICD\TestCICD\obj\Debug\net8.0\TestCICD.sourcelink.json
